@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/herisusantuy/herisusantuy/blob/main/header.png?raw=true)
+![alt text](https://github.com/herrisusanto/herrisusanto/blob/main/header.png?raw=true)
 <p>A Front-end Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
 
 🧠 I'm currently learning Native Mobile Development
