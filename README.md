@@ -15,6 +15,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrisusanto&layout=donut)](https://github.com/herrisusanto/github-readme-stats) 
+![Heri Susanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrisusanto&show_icons=true)
 
  
 <h3>🛠️ Tools</h3>
