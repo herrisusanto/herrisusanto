@@ -23,7 +23,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisusantuy&layout=donut)](https://github.com/herisusantuy/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrisusanto&layout=donut)](https://github.com/herrisusanto/github-readme-stats) 
 
  
 <h3>🛠️ Tools</h3>
