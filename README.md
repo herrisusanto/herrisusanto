@@ -5,6 +5,8 @@
 🧠 I'm currently learning iOS Development with SwiftUI
 
 🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) 
+
+🚀 Hire me at [Upwork](https://www.upwork.com/freelancers/~018a27ba7b5d9b20fe?viewMode=1) 
 <br/>    
  
 <h3>🤖 Languages & Frameworks</h3>
