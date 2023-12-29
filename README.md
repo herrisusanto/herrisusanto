@@ -2,11 +2,11 @@
 ![alt text](https://github.com/herrisusanto/herrisusanto/blob/main/header.png?raw=true)
 <p>An aspire iOS Developer from Indonesia 🇮🇩, currently living in Yogyakarta.</p> 
 
-🧠 I'm currently learning iOS Development with SwiftUI
+🧠 I'm currently learning iOS Development
 
 🚀 Read more about my projects at [herisusanto.com](https://www.herisusanto.com) 
 
-🚀 Hire me at [Upwork](https://www.upwork.com/freelancers/~018a27ba7b5d9b20fe?viewMode=1) 
+💰 Hire me at [Upwork](https://www.upwork.com/freelancers/~018a27ba7b5d9b20fe?viewMode=1) 
 <br/>    
  
 <h3>🤖 Languages & Frameworks</h3>
