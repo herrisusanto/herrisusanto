@@ -19,7 +19,7 @@
 
 
 ![Heri Susanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrisusanto&show_icons=true&theme=radical) 
-![Heri Susanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=herisussanto&show_icons=true&theme=radical) 
+![Heri Susanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=heri.susanto@neurosquare.com&show_icons=true&theme=radical) 
 
  
 <h3>🛠️ Tools</h3>
