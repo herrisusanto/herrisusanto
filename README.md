@@ -20,11 +20,8 @@
 
 ![Heri Susanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrisusanto&show_icons=true&theme=radical)   
 
-START_SECTION_DAILY_COMMIT:readme-info
-END_SECTION_DAILY_COMMIT:readme-info
-
-START_SECTION_WEEKLY_COMMIT:readme-info
-END_SECTION_WEEKLY_COMMIT:readme-info 
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
 
  
 <h3>🛠️ Tools</h3>
