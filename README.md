@@ -17,7 +17,7 @@
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisusantuy&layout=donut)](https://github.com/herisusantuy/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herrisusanto&layout=donut)](https://github.com/herrisusanto/github-readme-stats) 
 
 
 ![Heri Susanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrisusanto&show_icons=true&theme=radical)   
